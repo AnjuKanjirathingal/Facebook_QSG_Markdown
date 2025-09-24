@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+        <html>
+        <head>
+            <meta charset="UTF-8">
+            <title>Overview</title>
+            <style>
+/* From extension vscode.github */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+.vscode-dark img[src$=\#gh-light-mode-only],
+.vscode-light img[src$=\#gh-dark-mode-only],
+.vscode-high-contrast:not(.vscode-high-contrast-light) img[src$=\#gh-light-mode-only],
+.vscode-high-contrast-light img[src$=\#gh-dark-mode-only] {
+	display: none;
+}
+
+</style>
+    <script type="module">
+      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+      mermaid.initialize({ startOnLoad: true });
+    </script>
+            
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+<style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
+                font-size: 14px;
+                line-height: 1.6;
+            }
+        </style>
+        <style>
+.task-list-item {
+    list-style-type: none;
+}
+
+.task-list-item-checkbox {
+    margin-left: -20px;
+    vertical-align: middle;
+    pointer-events: none;
+}
+</style>
+<style>
+:root {
+  --color-note: #0969da;
+  --color-tip: #1a7f37;
+  --color-warning: #9a6700;
+  --color-severe: #bc4c00;
+  --color-caution: #d1242f;
+  --color-important: #8250df;
+}
+
+</style>
+<style>
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-note: #2f81f7;
+    --color-tip: #3fb950;
+    --color-warning: #d29922;
+    --color-severe: #db6d28;
+    --color-caution: #f85149;
+    --color-important: #a371f7;
+  }
+}
+
+</style>
+<style>
+.markdown-alert {
+  padding: 0.5rem 1rem;
+  margin-bottom: 16px;
+  color: inherit;
+  border-left: .25em solid #888;
+}
+
+.markdown-alert>:first-child {
+  margin-top: 0
+}
+
+.markdown-alert>:last-child {
+  margin-bottom: 0
+}
+
+.markdown-alert .markdown-alert-title {
+  display: flex;
+  font-weight: 500;
+  align-items: center;
+  line-height: 1
+}
+
+.markdown-alert .markdown-alert-title .octicon {
+  margin-right: 0.5rem;
+  display: inline-block;
+  overflow: visible !important;
+  vertical-align: text-bottom;
+  fill: currentColor;
+}
+
+.markdown-alert.markdown-alert-note {
+  border-left-color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-note .markdown-alert-title {
+  color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-important {
+  border-left-color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-important .markdown-alert-title {
+  color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-warning {
+  border-left-color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-warning .markdown-alert-title {
+  color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-tip {
+  border-left-color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-tip .markdown-alert-title {
+  color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-caution {
+  border-left-color: var(--color-caution);
+}
+
+.markdown-alert.markdown-alert-caution .markdown-alert-title {
+  color: var(--color-caution);
+}
+
+</style>
+        
+        </head>
+        <body class="vscode-body vscode-light">
+            <ul>
+<li><a href="#overview">Overview</a></li>
+<li><a href="#prerequisites">Prerequisites</a></li>
+<li><a href="#system-requirements">System requirements</a></li>
+<li><a href="#accessing-facebook">Accessing Facebook</a></li>
+<li><a href="#adding-a-post-from-web-browser">Adding a post from web browser</a></li>
+<li><a href="#adding-a-post-from-smartphone">Adding a post from smartphone</a></li>
+<li><a href="#frequently-asked-questions">Frequently Asked Questions</a></li>
+<li><a href="#troubleshooting">Troubleshooting</a></li>
+<li><a href="#best-practices">Best practices</a></li>
+</ul>
+<h1 id="overview">Overview</h1>
+<p>Facebook is a social networking platform. Meta Platforms, Inc. owns it. It helps you connect, share updates, and communicate online.</p>
+<p>A Facebook post lets you share updates with friends and family. Standard posts include:</p>
+<ul>
+<li>Text</li>
+<li>Images</li>
+<li>Videos</li>
+<li>Text with images or videos</li>
+</ul>
+<p>In groups or pages, you can post the following as well:</p>
+<ul>
+<li>Files</li>
+<li>Polls</li>
+<li>Quizzes</li>
+</ul>
+<p>In addition to posts, Facebook supports Stories and Reels. Stories show short updates that disappear after 24 hours. Reels show short videos designed for discovery.</p>
+<p>Businesses and creators use posts to promote their products and events. Posts reach a large audience in quickly get fast responses.</p>
+<p>Facebook lets you control who can see your posts. Set privacy before posting to make sure your content reaches the right audience. The Privacy options include as follows:</p>
+<ul>
+<li>Public</li>
+<li>Friends</li>
+<li>Only me</li>
+</ul>
+<p>Facebook lets you customize privacy settings that fit your needs.</p>
+<p>Posts drive engagement. You can like, comment, or share. This creates conversations and builds community.</p>
+<p>Your Photos, videos, and text remain on your timeline for future viewing. This helps you to keep memories safe for future.</p>
+<p>Limitations of Facebook post are as follows:</p>
+<ul>
+<li>Text posts allow up to 63,206 characters.</li>
+<li>Images and videos have file size limits.</li>
+<li>Supported file types upload only.</li>
+<li>Group admins may review posts before approval.</li>
+<li>Large documents cannot appear directly in the newsfeed.</li>
+<li>Facebook does not support audio posts.</li>
+</ul>
+<p><img src="file:///c:\Users\binoy\OneDrive - Moe, Inc\Desktop\ANJU TWT\GIT Repos\Facebook_QSG_Markdown\Images\FBPost.png" alt="Flow chart"></p>
+<h1 id="prerequisites">Prerequisites</h1>
+<p>Before you get started, make sure you have following:</p>
+<ul>
+<li>A Facebook account.</li>
+<li>A web browser or the Facebook mobile app.</li>
+<li>An Internet connection.</li>
+</ul>
+<h1 id="system-requirements">System requirements</h1>
+<p>Make sure your system meets the following basic requirements before you create a post:</p>
+<ul>
+<li>Device: Smartphone, tablet, or computer.</li>
+<li>OS:
+<ul>
+<li>Android 8.0 or higher</li>
+<li>iOS 13 or higher</li>
+<li>Any of modern OS: Windows, macOS, Linux.</li>
+</ul>
+</li>
+<li>Browser: Latest version of Chrome, Firefox, Edge, or Safari.</li>
+<li>Storage: Facebook app requires about 200–300 MB free space.</li>
+</ul>
+<h1 id="accessing-facebook">Accessing Facebook</h1>
+<p>You can access Facebook either from a web browser or from the mobile app.</p>
+<ul>
+<li>On a web browser,go to the link ( <a href="https://www.facebook.com/">https://www.facebook.com/</a> )</li>
+<li>On mobile devices, download the Facebook app from the Google Play Store (Android) or App Store (iOS).</li>
+</ul>
+<p><strong>Note</strong>: Once you access the Facebook, Log in with your registered email or phone number and password.</p>
+<h1 id="adding-a-post-from-web-browser">Adding a post from web browser</h1>
+<p>Log in to Facebook on a web browser to create and share standard posts. The following steps help you create one:</p>
+<p>To create,</p>
+<ol>
+<li>On your home page, click &quot;What’s on your mind?&quot;.</li>
+<li>Perform one of the following:
+<ul>
+<li>
+<p>Enter your message, to share a text only post</p>
+</li>
+<li>
+<p>Click <strong>Photo/Video</strong>, to share an image post</p>
+<ol>
+<li>Select an image file.</li>
+<li>Add a caption.</li>
+</ol>
+</li>
+<li>
+<p>Click <strong>Photo/Video</strong>, to share a video post</p>
+<ol>
+<li>Select a video file.</li>
+<li>Add a caption.</li>
+</ol>
+</li>
+</ul>
+</li>
+<li>Select any one of the following privacy options:
+<ul>
+<li>Public</li>
+<li>Friends</li>
+<li>Only me</li>
+<li>Friends except</li>
+<li>Specific friends</li>
+<li>Custom</li>
+<li>Close friends</li>
+<li>Family</li>
+</ul>
+</li>
+<li>Click <strong>Post</strong>.</li>
+</ol>
+<p><strong>Note:</strong> Click the cross button in the top-right corner to discard the post.<br>
+<strong>Result:</strong> Your post is live on your account with the selected privacy option.</p>
+<h1 id="adding-a-post-from-smartphone">Adding a post from smartphone</h1>
+<p>Log in to the Facebook mobile app to create and share standard posts. The following steps help you create one:
+To create,</p>
+<ol>
+<li>On your home page, tap “What’s on your mind?” text box.</li>
+<li>Perform one of the following:
+<ul>
+<li>
+<p>Enter your message, to share a text only post</p>
+</li>
+<li>
+<p>Tap <strong>Photo/Video</strong>, to share an image post</p>
+<ol>
+<li>Select an image file.</li>
+<li>Add a caption.</li>
+</ol>
+</li>
+<li>
+<p>Tap <strong>Photo/Video</strong>, to share a video post</p>
+<ol>
+<li>Select a video file.</li>
+<li>Add a caption.</li>
+</ol>
+</li>
+</ul>
+</li>
+<li>Select any one of the following privacy options:
+<ul>
+<li>Public</li>
+<li>Friends</li>
+<li>Only me</li>
+<li>Friends except</li>
+<li>Specific friends</li>
+<li>Custom</li>
+<li>Close friends</li>
+<li>Family</li>
+</ul>
+</li>
+<li>Tap Done</li>
+<li>Tap <strong>Post</strong>.</li>
+</ol>
+<p><strong>Result:</strong> Your post is now live on your account based on the privacy options you choose.</p>
+<h1 id="frequently-asked-questions">Frequently Asked Questions</h1>
+<p>Q1: Can I edit a post after publishing?</p>
+<p>A1: Yes. Select the three dots, then select Edit Post.
+<br><br></p>
+<p>Q2: Who can see my post?</p>
+<p>A2: Your privacy settings control visibility.
+<br><br></p>
+<p>Q3: Can I delete a post?</p>
+<p>A3: Yes. Select the three dots, then select Move to trash.
+<br><br><br>
+Q4: Can I schedule a post?</p>
+<p>A4: Yes, but only for pages. You cannot schedule posts on a personal profile.
+<br><br></p>
+<p>Q5: Can I turn off comments on my post?</p>
+<p>A5: Yes. Select the three dots, then select Who can comment on your post.
+<br><br><br><br></p>
+<h1 id="troubleshooting">Troubleshooting</h1>
+<table style="border-collapse: collapse; border: 2px solid orange; width:100%; max-width:800px;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid orange; padding: 8px; text-align:left;">Issue</th>
+      <th style="border: 1px solid orange; padding: 8px; text-align:left">Solution</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid orange; padding: 8px;">Post not uploading</td>
+      <td style="border: 1px solid orange; padding: 8px;">Check your internet connection and file size.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid orange; padding: 8px;">Image looks blurry</td>
+      <td style="border: 1px solid orange; padding: 8px;">Upload a higher-resolution image.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid orange; padding: 8px;">Video not playing</td>
+      <td style="border: 1px solid orange; padding: 8px;">Re-upload the video in a supported format (MP4, MOV).</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid orange; padding: 8px;">File not attaching</td>
+      <td style="border: 1px solid orange; padding: 8px;">Check file type and size. Facebook supports PDF, DOCX, XLSX, JPEG, PNG, GIF, MP4, and MOV.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid orange; padding: 8px;">Post taking too long to load</td>
+      <td style="border: 1px solid orange; padding: 8px;">Refresh the page or update the Facebook app.</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid orange; padding: 8px;">Cannot edit post</td>
+      <td style="border: 1px solid orange; padding: 8px;">Make sure the post is not a shared post or an expired Story.</td>
+    </tr>
+  </tbody>
+</table>
+<h1 id="best-practices">Best practices</h1>
+<p>Follow these best practices to make your posts effective and engaging. They help you reach the right audience and improve visibility.</p>
+<ul>
+<li>Keep posts short and clear.</li>
+<li>Add images or videos to improve engagement</li>
+<li>Check privacy settings before posting.</li>
+</ul>
+
+            
+            
+        </body>
+        </html>
