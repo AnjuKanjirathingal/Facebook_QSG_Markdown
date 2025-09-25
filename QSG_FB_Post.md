@@ -56,6 +56,9 @@ Limitations of Facebook post are as follows:
 * Group admins may review posts before approval.
 * Large documents cannot appear directly in the newsfeed.
 * Facebook does not support audio posts.
+
+
+This guide helps you create and share a Facebook post from a web browser and from a smartphone.
   
 
 
