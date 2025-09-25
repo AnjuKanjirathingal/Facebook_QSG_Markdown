@@ -35,11 +35,7 @@ In addition to posts, Facebook supports Stories and Reels. Stories show short up
 Businesses and creators use posts to promote their products and events. Posts reach a large audience in quickly get fast responses. 
 
 
-Facebook lets you control who can see your posts. Set privacy before posting to make sure your content reaches the right audience. The Privacy options include as follows:
-* Public
-* Friends
-* Only me
-  
+Facebook lets you control who can see your posts. Set privacy before posting to make sure your content reaches the right audience.   
 
 Facebook lets you customize privacy settings that fit your needs.
 
