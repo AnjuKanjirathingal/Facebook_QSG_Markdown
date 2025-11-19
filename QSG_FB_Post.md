@@ -6,43 +6,23 @@
 - [Accessing Facebook](#accessing-facebook)
 - [Adding a post from web browser](#adding-a-post-from-web-browser)
 - [Adding a post from smartphone](#adding-a-post-from-smartphone)
+- [Adding a check-in to a post](#adding-a-check-in-to-a-post)
+- [Adding a reels post on Facebook](#adding-a-reels-post-on-facebook)
+  - [Adding a reels from web browser](#adding-a-reels-from-web-browser)
+  - [Adding a reels from smartphone](#adding-a-reels-from-smartphone)
 - [Frequently Asked Questions](#frequently-asked-questions)
 - [Troubleshooting](#troubleshooting)
 - [Best practices](#best-practices)
 
 
 
+
 # Overview
-Facebook is a social networking platform. Meta Platforms, Inc. owns it. It helps you connect, share updates, and communicate online.
+Facebook allows people to share updates, photos, and ideas with friends, communities, and public audiences. A post helps you express thoughts, share moments, or communicate important information in a simple and engaging way.
 
-A Facebook post lets you share updates with friends and family. Standard posts include:
+A standard Facebook post can include text, photos, videos, links, locations, or emojis. You can publish posts on your timeline, inside groups you join, or on pages you manage. These posts help you start conversations, receive responses, and stay connected with your audience.
 
-* Text
-* Images
-* Videos
-* Text with images or videos
-  
-
-In groups or pages, you can post the following as well:
-
-* Files
-* Polls
-* Quizzes
-  
-
-In addition to posts, Facebook supports Stories and Reels. Stories show short updates that disappear after 24 hours. Reels show short videos designed for discovery.
-
-Businesses and creators use posts to promote their products and events. Posts reach a large audience in quickly get fast responses. 
-
-
-Facebook lets you control who can see your posts. Set privacy before posting to make sure your content reaches the right audience.   
-
-Facebook lets you customize privacy settings that fit your needs.
-
-Posts drive engagement. You can like, comment, or share. This creates conversations and builds community. 
-
-
-Your Photos, videos, and text remain on your timeline for future viewing. This helps you to keep memories safe for future.
+Posting is useful for personal storytelling and plays a major role in business communication. Businesses use posts to share promotions, highlight services, and reach customers quickly. Well-crafted posts improve visibility, build trust, and support brand growth.
 
 Limitations of Facebook post are as follows:
 
@@ -53,16 +33,14 @@ Limitations of Facebook post are as follows:
 * Large documents cannot appear directly in the newsfeed.
 * Facebook does not support audio posts.
 
-
-This guide helps you create and share a Facebook post from a web browser and from a smartphone.
-  
+This guide explains how to create a post from a web browser or mobile device. It includes steps for adding text or media, selecting an audience, and using related posting features such as Check-Ins and Reels. These tasks help you share updates confidently and engage your audience effectively.
 
 
 ![Flow chart](Images/FBPost.png)
 
 # Prerequisites 
 
-Before you get started, make sure you have following:
+Before you get started, make sure that you have the following:
 * A Facebook account.
 * A web browser or the Facebook mobile app.
 * An Internet connection.
@@ -83,7 +61,7 @@ Make sure your system meets the following basic requirements before you create a
 
 You can access Facebook either from a web browser or from the mobile app.
 
-* On a web browser,go to the link ( https://www.facebook.com/ )
+* On a web browser,go to [https://www.facebook.com/]( https://www.facebook.com/ )
 * On mobile devices, download the Facebook app from the Google Play Store (Android) or App Store (iOS).
   
 
@@ -106,7 +84,7 @@ To create,
     - Click __Photo/Video__, to share a video post
        1. Select a video file.  
        2. Add a caption.  
-3. Select any one of the following privacy options:
+3. Select one of the following privacy options:
     * Public
     * Friends
     * Only me
@@ -117,8 +95,9 @@ To create,
     * Family
 4. Click **Post**.  
 
-**Note:** Click the cross button in the top-right corner to discard the post.  
-**Result:** Your post is live on your account with the selected privacy option.  
+    **Note:** Click the cross button in the top-right corner to discard the post.  
+
+ Your post is live on your account with the selected privacy option.  
 
 
 # Adding a post from smartphone 
@@ -135,7 +114,7 @@ To create,
     - Tap __Photo/Video__, to share a video post
        1. Select a video file.  
        2. Add a caption.  
-3. Select any one of the following privacy options:
+3. Select one of the following privacy options:
     * Public
     * Friends
     * Only me
@@ -144,10 +123,149 @@ To create,
     * Custom
     * Close friends
     * Family
-4. Tap Done
+4. Tap **Done**.
 5. Tap **Post**.  
    
-__Result:__ Your post is now live on your account based on the privacy options you choose.
+ Your post is now live on your account based on the privacy options you choose.
+
+# Adding a check-in to a post
+A Check-In adds your current or visited location to a post. It helps share where you are or where an activity happened.
+
+__Prerequisites:__
+
+* Enable Location access on your device.
+  
+To add,
+1.	On your home page, tap “What’s on your mind?” text box.
+2.	Select **Check In**.
+
+    __Note:__ allow location permissions if prompted on your screen
+3.	Search a place you wish to add.
+4.	Add the photo/ text for the post if necessary
+5.	Click **Post**.
+
+Your post is now published with the location.
+
+<table style="border-collapse: collapse; border: 2px solid orange; width:100%; max-width:800px;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid orange; padding: 8px; text-align:left;">Property</th>
+      <th style="border: 1px solid orange; padding: 8px; text-align:left">Details</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid orange; padding: 8px;">Purpose</td>
+      <td style="border: 1px solid orange; padding: 8px;">Display current or past location in a post</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid orange; padding: 8px;">Privacy option</td>
+      <td style="border: 1px solid orange; padding: 8px;">Choose audience before posting</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid orange; padding: 8px;">Visibility</td>
+      <td style="border: 1px solid orange; padding: 8px;">Depends on your post privacy settings</td>
+    </tr>
+  </tbody>
+</table>
+
+**Usage Notes:**
+
+* Use Check In only for public or safe places.
+* Avoid tagging your exact home or private location.
+*	Update privacy before posting.
+*	You can remove or edit a check-in anytime.
+
+
+# Adding a reels post on Facebook
+Facebook allows users to create and share Reels from both the mobile app and desktop web browser. Reels help share short, engaging videos with your audience. They can be customized with music, text, and effects. The following helps you to add and publish a Facebook Reel from a smartphone or web browser.
+
+**Prerequisites:**
+
+*	Allow camera and microphone access.
+
+## Adding a reels from web browser
+Log in to Facebook on a web browser to create and share Reels post. The following steps help you create one:
+
+To add,
+1.	On your home page, click **Menu** icon.
+2.	To create a new reel, Click **Reel**.
+3.	To upload from the device, perform one of the following:
+
+    *	Click **Add video**.
+    *	Do drag and drop.
+4.	Click **Upload**.
+
+    **Note:** click Replace video to change the video before posting. 
+5.	To modify the video, click **Next**.
+6.	To add privacy settings and tagging, click **Next**.
+7.	To publish, click **Post**.
+
+Your reel post is now live on your account based on the privacy options you choose.
+
+## Adding a reels from smartphone
+Log in to the Facebook mobile app to create and share Reels posts. The following steps help you create one:
+
+To add,
+1.	On the top right corner of your home page, perform one of the following:
+
+     *	Tap **Menu** icon.
+        1.	To create a new reel, tap **Reel**.
+        2.	Tap Camera icon.
+    *	Tap plus icon
+
+         1.	To create a new reel, tap **Reel**.
+2.	Perform one of the following:
+    *	To upload from device, select a video from your device storage.
+    *	To upload a live video, tap **Camera icon**
+    **Note:** Allow necessary audio and video permissions to proceed.
+3.	To edit the video, tap **Edit reel**.
+4.	To add privacy settings and tagging, tap **Next**.
+5.	To publish the reel, tap **Share now**.
+
+
+Your reel post is now live on your account based on the privacy options you choose.
+
+<table style="border-collapse: collapse; border: 2px solid orange; width:100%; max-width:800px;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid orange; padding: 8px; text-align:left;">Property</th>
+      <th style="border: 1px solid orange; padding: 8px; text-align:left">Details</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid orange; padding: 8px;">Purpose</td>
+      <td style="border: 1px solid orange; padding: 8px;">Create and publish short videos using Facebook Reels</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid orange; padding: 8px;">Duration limit</td>
+      <td style="border: 1px solid orange; padding: 8px;">Up to 90 seconds</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid orange; padding: 8px;">Edit tools</td>
+      <td style="border: 1px solid orange; padding: 8px;">Music, text, filters, and effects (mobile only)</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid orange; padding: 8px;">Audience options</td>
+      <td style="border: 1px solid orange; padding: 8px;">Public, Friends, Only me</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid orange; padding: 8px;">Content visibility</td>
+      <td style="border: 1px solid orange; padding: 8px;">Appears on Reels feed and News Feed</td>
+    </tr>
+  </tbody>
+</table>
+
+
+**Usage Notes:**
+
+*	Use vertical video format for best visibility.
+*	Avoid copyrighted audio or reused clips.
+*	Review privacy settings before sharing.
+*	Keep captions short and meaningful.
+*	Add subtitles for accessibility.
+
 
 # Frequently Asked Questions
 
