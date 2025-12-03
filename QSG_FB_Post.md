@@ -4,16 +4,15 @@
 - [Prerequisites](#prerequisites)
 - [System requirements](#system-requirements)
 - [Accessing Facebook](#accessing-facebook)
-- [Adding a post from web browser](#adding-a-post-from-web-browser)
-- [Adding a post from smartphone](#adding-a-post-from-smartphone)
+- [Adding a post from a web browser](#adding-a-post-from-a-web-browser)
+- [Adding a post from a smartphone](#adding-a-post-from-a-smartphone)
 - [Adding a check-in to a post](#adding-a-check-in-to-a-post)
-- [Adding a reels post on Facebook](#adding-a-reels-post-on-facebook)
-  - [Adding a reels from web browser](#adding-a-reels-from-web-browser)
-  - [Adding a reels from smartphone](#adding-a-reels-from-smartphone)
+- [Adding a reel post on Facebook](#adding-a-reel-post-on-facebook)
+  - [Adding a reel from a web browser](#adding-a-reel-from-a-web-browser)
+  - [Adding a reel from a smartphone](#adding-a-reel-from-a-smartphone)
 - [Frequently Asked Questions](#frequently-asked-questions)
 - [Troubleshooting](#troubleshooting)
 - [Best practices](#best-practices)
-
 
 
 
@@ -24,7 +23,7 @@ A standard Facebook post can include text, photos, videos, links, locations, or 
 
 Posting is useful for personal storytelling and plays a major role in business communication. Businesses use posts to share promotions, highlight services, and reach customers quickly. Well-crafted posts improve visibility, build trust, and support brand growth.
 
-Limitations of Facebook post are as follows:
+The Limitations of Facebook posts are as follows:
 
 * Text posts allow up to 63,206 characters.
 * Images and videos have file size limits.
@@ -36,7 +35,7 @@ Limitations of Facebook post are as follows:
 This guide explains how to create a post from a web browser or mobile device. It includes steps for adding text or media, selecting an audience, and using related posting features such as Check-Ins and Reels. These tasks help you share updates confidently and engage your audience effectively.
 
 
-![Flow chart](/Images/FBPost.png)
+![Flow chart](Images/FBPost.png)
 
 # Prerequisites 
 
@@ -51,30 +50,30 @@ Make sure your system meets the following basic requirements before you create a
 
 * Device: Smartphone, tablet, or computer.
 * OS: 
-    * Android 8.0 or higher
-    * iOS 13 or higher 
-    * Any of modern OS: Windows, macOS, Linux.
+    * Android 8.0 or later.
+    * iOS 13 or later. 
+    * Any of the modern OS: Windows, macOS, Linux.
 * Browser: Latest version of Chrome, Firefox, Edge, or Safari.
-* Storage: Facebook app requires about 200–300 MB free space.
+* Storage: The Facebook app requires about 200–300 MB of free space.
 
 # Accessing Facebook
 
-You can access Facebook either from a web browser or from the mobile app.
+You can access Facebook from either a web browser or the mobile app.
 
 * On a web browser,go to [https://www.facebook.com/]( https://www.facebook.com/ )
 * On mobile devices, download the Facebook app from the Google Play Store (Android) or App Store (iOS).
   
 
-__Note__: Once you access the Facebook, Log in with your registered email or phone number and password.
+__Note__: Once you access Facebook, Log in with your registered email or phone number and password.
 
 
-# Adding a post from web browser 
+# Adding a post from a web browser 
 
 Log in to Facebook on a web browser to create and share standard posts. The following steps help you create one:
 
 To create,
 
-1. On your home page, click "What’s on your mind?".  
+1. On your home page, click __"What’s on your mind?"__.  
 2. Perform one of the following:  
    - Enter your message, to share a text only post
    - Click __Photo/Video__, to share an image post
@@ -95,15 +94,15 @@ To create,
     * Family
 4. Click **Post**.  
 
-    **Note:** Click the cross button in the top-right corner to discard the post.  
+    **Note:** Click the cross button on the top-right corner to discard the post.  
 
  Your post is live on your account with the selected privacy option.  
 
 
-# Adding a post from smartphone 
+# Adding a post from a smartphone 
 Log in to the Facebook mobile app to create and share standard posts. The following steps help you create one:
 To create,
-1.	On your home page, tap “What’s on your mind?” text box.
+1.	On your home page, tap __“What’s on your mind?”__ text box.
 2.	Perform one of the following:
     - Enter your message, to share a text only post
     - Tap __Photo/Video__, to share an image post
@@ -133,14 +132,14 @@ A Check-In adds your current or visited location to a post. It helps share where
 
 __Prerequisites:__
 
-* Enable Location access on your device.
+* Enable location access on your device.
   
 To add,
-1.	On your home page, tap “What’s on your mind?” text box.
+1.	On your home page, tap __“What’s on your mind?”__ text box.
 2.	Select **Check In**.
 
-    __Note:__ allow location permissions if prompted on your screen
-3.	Search a place you wish to add.
+    __Note:__ Allow location permissions if prompted on your screen
+3.	Search for a place you wish to add.
 4.	Add the photo/ text for the post if necessary
 5.	Click **Post**.
 
@@ -160,7 +159,7 @@ Your post is now published with the location.
     </tr>
     <tr>
       <td style="border: 1px solid orange; padding: 8px;">Privacy option</td>
-      <td style="border: 1px solid orange; padding: 8px;">Choose audience before posting</td>
+      <td style="border: 1px solid orange; padding: 8px;">Choose the audience before posting</td>
     </tr>
     <tr>
       <td style="border: 1px solid orange; padding: 8px;">Visibility</td>
@@ -177,33 +176,33 @@ Your post is now published with the location.
 *	You can remove or edit a check-in anytime.
 
 
-# Adding a reels post on Facebook
+# Adding a reel post on Facebook
 Facebook allows users to create and share Reels from both the mobile app and desktop web browser. Reels help share short, engaging videos with your audience. They can be customized with music, text, and effects. The following helps you to add and publish a Facebook Reel from a smartphone or web browser.
 
 **Prerequisites:**
 
 *	Allow camera and microphone access.
 
-## Adding a reels from web browser
+## Adding a reel from a web browser
 Log in to Facebook on a web browser to create and share Reels post. The following steps help you create one:
 
 To add,
-1.	On your home page, click **Menu** icon.
-2.	To create a new reel, Click **Reel**.
+1.	On your home page, click the **Menu** icon.
+2.	To create a new reel, click **Reel**.
 3.	To upload from the device, perform one of the following:
 
     *	Click **Add video**.
     *	Do drag and drop.
 4.	Click **Upload**.
 
-    **Note:** click Replace video to change the video before posting. 
+    **Note:** Click **Replace video** to change the video before posting. 
 5.	To modify the video, click **Next**.
 6.	To add privacy settings and tagging, click **Next**.
 7.	To publish, click **Post**.
 
 Your reel post is now live on your account based on the privacy options you choose.
 
-## Adding a reels from smartphone
+## Adding a reel from a smartphone
 Log in to the Facebook mobile app to create and share Reels posts. The following steps help you create one:
 
 To add,
@@ -216,8 +215,8 @@ To add,
 
          1.	To create a new reel, tap **Reel**.
 2.	Perform one of the following:
-    *	To upload from device, select a video from your device storage.
-    *	To upload a live video, tap **Camera icon**
+    *	To upload from a device, select a video from your device storage.
+    *	To upload a live video, tap the **Camera icon**
     **Note:** Allow necessary audio and video permissions to proceed.
 3.	To edit the video, tap **Edit reel**.
 4.	To add privacy settings and tagging, tap **Next**.
@@ -271,7 +270,7 @@ Your reel post is now live on your account based on the privacy options you choo
 
 Q1: Can I edit a post after publishing?
 
-A1: Yes. Select the three dots, then select Edit Post.
+A1: Yes. Select the three dots menu, then select Edit Post.
 <br><br>
 
 Q2: Who can see my post?
@@ -281,7 +280,7 @@ A2: Your privacy settings control visibility.
 
 Q3: Can I delete a post?
 
-A3: Yes. Select the three dots, then select Move to trash.
+A3: Yes. Select the three dots menu, then select Move to trash.
 <br><br><br>
 Q4: Can I schedule a post?
 
@@ -290,7 +289,7 @@ A4: Yes, but only for pages. You cannot schedule posts on a personal profile.
 
 Q5: Can I turn off comments on my post?
 
-A5: Yes. Select the three dots, then select Who can comment on your post.
+A5: Yes. Select the three dots menu, then select Who can comment on your post.
 <br><br><br><br>
 
 # Troubleshooting
@@ -308,7 +307,7 @@ A5: Yes. Select the three dots, then select Who can comment on your post.
       <td style="border: 1px solid orange; padding: 8px;">Check your internet connection and file size.</td>
     </tr>
     <tr>
-      <td style="border: 1px solid orange; padding: 8px;">Image looks blurry</td>
+      <td style="border: 1px solid orange; padding: 8px;">The Image looks blurry</td>
       <td style="border: 1px solid orange; padding: 8px;">Upload a higher-resolution image.</td>
     </tr>
     <tr>
@@ -320,7 +319,7 @@ A5: Yes. Select the three dots, then select Who can comment on your post.
       <td style="border: 1px solid orange; padding: 8px;">Check file type and size. Facebook supports PDF, DOCX, XLSX, JPEG, PNG, GIF, MP4, and MOV.</td>
     </tr>
     <tr>
-      <td style="border: 1px solid orange; padding: 8px;">Post taking too long to load</td>
+      <td style="border: 1px solid orange; padding: 8px;">The Post is taking too long to load</td>
       <td style="border: 1px solid orange; padding: 8px;">Refresh the page or update the Facebook app.</td>
     </tr>
     <tr>
