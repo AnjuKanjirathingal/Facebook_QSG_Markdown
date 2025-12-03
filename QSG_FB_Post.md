@@ -35,7 +35,7 @@ The Limitations of Facebook posts are as follows:
 This guide explains how to create a post from a web browser or mobile device. It includes steps for adding text or media, selecting an audience, and using related posting features such as Check-Ins and Reels. These tasks help you share updates confidently and engage your audience effectively.
 
 
-![Flow chart](../Images/FBPost.png)
+![Flow chart](Images/FBPost.png)
 
 # Prerequisites 
 
